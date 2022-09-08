@@ -3,19 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/CoffeeShop/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1575" />
+        <entry key="..\:/CoffeeShop/app/src/main/res/drawable/button_style.xml" value="0.162" />
+        <entry key="..\:/CoffeeShop/app/src/main/res/drawable/button_style_login.xml" value="0.162" />
+        <entry key="..\:/CoffeeShop/app/src/main/res/drawable/ic__1_splash.xml" value="0.162" />
+        <entry key="..\:/CoffeeShop/app/src/main/res/drawable/ic_account.xml" value="0.1575" />
+        <entry key="..\:/CoffeeShop/app/src/main/res/drawable/ic_artwork.xml" value="0.162" />
+        <entry key="..\:/CoffeeShop/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1575" />
+        <entry key="..\:/CoffeeShop/app/src/main/res/drawable/ic_logo.xml" value="0.1575" />
+        <entry key="..\:/CoffeeShop/app/src/main/res/drawable/ic_macciato.xml" value="0.1575" />
+        <entry key="..\:/CoffeeShop/app/src/main/res/drawable/ic_mocha.xml" value="0.1575" />
+        <entry key="..\:/CoffeeShop/app/src/main/res/drawable/ic_pattern.xml" value="0.1575" />
         <entry key="..\:/CoffeeShop/app/src/main/res/layout/activity_main.xml" value="0.14719202898550723" />
+        <entry key="..\:/CoffeeShop/app/src/main/res/layout/fragment_home.xml" value="0.14719202898550723" />
         <entry key="..\:/CoffeeShop/app/src/main/res/layout/fragment_login.xml" value="0.14719202898550723" />
         <entry key="..\:/CoffeeShop/app/src/main/res/layout/fragment_onboarding.xml" value="0.14719202898550723" />
         <entry key="..\:/CoffeeShop/app/src/main/res/layout/fragment_register.xml" value="0.14719202898550723" />
-        <entry key="..\:/CoffeeShop/app/src/main/res/layout/fragment_splash.xml" value="0.14719202898550723" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.37552083333333336" />
-        <entry key="app/src/main/res/layout/fragment_onboarding.xml" value="0.37552083333333336" />
-        <entry key="app/src/main/res/layout/fragment_register.xml" value="0.37552083333333336" />
-        <entry key="app/src/main/res/layout/fragment_splash.xml" value="0.37552083333333336" />
-        <entry key="app/src/main/res/layout/item.xml" value="0.5" />
-        <entry key="app/src/main/res/layout/toolbar.xml" value="0.33" />
+        <entry key="..\:/CoffeeShop/app/src/main/res/layout/fragment_splash.xml" value="0.18" />
+        <entry key="..\:/CoffeeShop/app/src/main/res/layout/item.xml" value="0.14719202898550723" />
+        <entry key="..\:/CoffeeShop/app/src/main/res/layout/toolbar.xml" value="0.14719202898550723" />
       </map>
     </option>
   </component>

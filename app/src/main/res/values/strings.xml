@@ -2,4 +2,7 @@
     <string name="app_name">Coffee Shop</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get_the_best_coffee_n_in_the_town">Get the best coffee\n in the town!</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
 </resources>
