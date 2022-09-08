@@ -14,11 +14,11 @@ class LoginFragment : Fragment(R.layout.fragment_login) {
     savedInstanceState: Bundle?
   ) {
     super.onViewCreated(view, savedInstanceState)
-    val loginBtn = view.findViewById<Button>(R.id.btn_login)
-    loginBtn.setOnClickListener {
+    //val loginBtn = view.findViewById<Button>(R.id.btn_login)
+    /*loginBtn.setOnClickListener {
       findNavController().navigate(
         LoginFragmentDirections.actionLoginFragmentToHomeFragment()
       )
-    }
+    }*/
   }
 }

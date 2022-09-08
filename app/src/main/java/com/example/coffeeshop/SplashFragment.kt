@@ -10,7 +10,6 @@ import com.example.coffeeshop.R
 
 
 class SplashFragment : Fragment(R.layout.fragment_splash) {
-
     override fun onViewCreated(
         view: View,
         savedInstanceState: Bundle?
