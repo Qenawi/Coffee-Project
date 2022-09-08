@@ -3,11 +3,52 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main_navigation"
-    app:startDestination="@id/homeFragment">
+    app:startDestination="@id/splashFragment">
 
-    <fragment
-        android:id="@+id/homeFragment"
-        android:name="com.example.coffeeshop.UI.HomeFragment"
-        android:label="fragment_home"
-        tools:layout="@layout/fragment_home" />
+  <fragment
+      android:id="@+id/homeFragment"
+      android:name="com.example.coffeeshop.home.ui.HomeFragment"
+      android:label="fragment_home"
+      tools:layout="@layout/fragment_home" />
+
+  <fragment
+      android:id="@+id/splashFragment"
+      android:name="com.example.coffeeshop.SplashFragment"
+      android:label="fragment_splash"
+      tools:layout="@layout/fragment_splash">
+    <action
+        android:id="@+id/action_splashFragment_to_onboardingFragment"
+        app:destination="@id/onboardingFragment" />
+  </fragment>
+  <fragment
+      android:id="@+id/loginFragment"
+      android:name="com.example.coffeeshop.auth.login.ui.LoginFragment"
+      android:label="LoginFragment"
+      tools:layout="@layout/fragment_login">
+    <action
+        android:id="@+id/action_loginFragment_to_registerFragment"
+        app:destination="@id/registerFragment" />
+    <action
+        android:id="@+id/action_loginFragment_to_homeFragment"
+        app:destination="@id/homeFragment" />
+  </fragment>
+  <fragment
+      android:id="@+id/registerFragment"
+      android:name="com.example.coffeeshop.auth.register.ui.RegisterFragment"
+      android:label="RegisterFragment"
+      tools:layout="@layout/fragment_register" />
+  <fragment
+      android:id="@+id/onboardingFragment"
+      android:name="com.example.coffeeshop.on_boarding.ui.OnboardingFragment"
+      android:label="fragment_onboarding"
+      tools:layout="@layout/fragment_onboarding">
+    <action
+        android:id="@+id/action_onboardingFragment_to_loginFragment"
+        app:destination="@id/loginFragment" />
+    <action
+        android:id="@+id/action_onboardingFragment_to_registerFragment"
+        app:destination="@id/registerFragment" />
+  </fragment>
+
+
 </navigation>
