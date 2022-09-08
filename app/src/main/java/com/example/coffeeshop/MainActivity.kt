@@ -1,4 +1,4 @@
-package com.example.coffeeshop.ui
+package com.example.coffeeshop
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
