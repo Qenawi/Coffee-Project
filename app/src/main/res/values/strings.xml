@@ -5,4 +5,15 @@
     <string name="get_the_best_coffee_n_in_the_town">Get the best coffee\n in the town!</string>
     <string name="register">Register</string>
     <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="navigation_arrow">navigation_arrow</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="don_t_have_an_account">Don’t have an account?<font color='#8C746A'> Register</font></string>
+    <string name="onboarding_image">onBoarding_image</string>
+    <string name="already_have_account">Already have account?<font color='#8C746A'> Login</font></string>
+    <string name="new_account">New account!</string>
+    <string name="full_name">Full name</string>
+    <string name="phone_number">Phone number</string>
 </resources>
