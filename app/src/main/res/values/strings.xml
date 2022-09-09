@@ -16,4 +16,6 @@
     <string name="new_account">New account!</string>
     <string name="full_name">Full name</string>
     <string name="phone_number">Phone number</string>
+    <string name="toolbar_string">Menu</string>
+    <string name="preferences_toolbar_text">Preferences</string>
 </resources>
